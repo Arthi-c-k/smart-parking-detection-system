@@ -8,7 +8,7 @@ The main purpose of this project is to:
 - Provide users with a user-friendly interface to view parking availability.
 -Enable authorities to manage parking zones efficiently.
 
-Technologies Used
+Technologies Used:
 Python– Core programming for backend logic.
 OpenCV – For real-time image/video processing and parking space detection.
 Flask / Django – For developing the web server and API endpoints.
